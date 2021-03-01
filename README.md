@@ -1,8 +1,8 @@
 # Code-Quiz
 
-<p>This is a timed coding quiz with multiple-choice questions. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface. 
-</p>
-THe coursework learned to date equips me with all the skills needed to succeed in this assignment.
+This is a timed coding quiz with multiple-choice questions. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface. 
+
+The coursework learned to date equips me with all the skills needed to succeed in this assignment.
 
 ## User Story
 
@@ -26,3 +26,19 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+
+<p>
+    <img src="assets/FirstScreen.PNG" />
+</p>
+
+<p>
+    <img src="assets/SecondScreen.PNG" />
+</p>
+
+<p>
+    <img src="assets/ThirdScreen.PNG" />
+</p>
+
+<p>
+    <img src="assets/FourthScreen.PNG" />
+</p>
