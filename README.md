@@ -27,18 +27,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-<p>
-    <img src="assets/FirstScreen.PNG" />
-</p>
+[Screenshot1](ronyelon.github.com/repository/assets/FirstScreenshot.png)
 
-<p>
-    <img src="assets/SecondScreen.PNG" />
-</p>
+[Screenshot2](ronyelon.github.com/repository/assets/SecondScreenshot.png)
 
-<p>
-    <img src="assets/ThirdScreen.PNG" />
-</p>
-
-<p>
-    <img src="assets/FourthScreen.PNG" />
-</p>
+[Screenshot3](ronyelon.github.com/repository/assets/ThirdScreenshot.png)
