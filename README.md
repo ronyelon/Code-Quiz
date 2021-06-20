@@ -27,7 +27,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-## Live Link to the deployed app:    https://ronyelon.github.io/Code-Quiz/
+Live Link to the deployed app:    https://ronyelon.github.io/Code-Quiz/
 
 The following images show the web application's appearance and functionality:
 
@@ -35,3 +35,7 @@ The following images show the web application's appearance and functionality:
 ![Second Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/SecondScreen.PNG)
 ![Third Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/ThirdScreen.PNG)
 ![Fourth Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FourthScreen.PNG)
+
+</p>
+    <img src="https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FirstScreen.PNG" />
+</p> 
