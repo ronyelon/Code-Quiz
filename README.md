@@ -27,7 +27,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/assets/FirstScreen.PNG)
+![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FirstScreen.PNG)
 ![Second Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/assets/SecondScreen.PNG)
 ![Third Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/assets/ThirdScreen.PNG)
 ![Fourth Screen shot](https://github.com/ronyelon/Code-Quiz/blob/main/assets/FourthScreen.PNG)
