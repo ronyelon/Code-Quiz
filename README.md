@@ -51,3 +51,9 @@
   The following images show the web application's appearance and functionality:
 
   ![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FirstScreen.PNG)
+
+  ![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/SecondScreen.PNG)
+
+  ![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/ThirdScreen.PNG)
+
+  ![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FourthScreen.PNG)
