@@ -46,4 +46,8 @@
   - [Github Profile](https://github.com/ronyelon)
   - RonyBraswell@hotmail.com
  
-  
+  ## Mock-Up
+
+  The following images show the web application's appearance and functionality:
+
+  ![Mockup](https://github.com/ronyelon/Code-Quiz/blob/main/Assets/FirstScreen.PNG)
